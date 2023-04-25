@@ -1,0 +1,20 @@
+@tailwind  base;
+@tailwind components;
+@tailwind utilities;
+/* 
+#greet{
+    color: blue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 10%;
+    align-items: center;
+  }
+
+  #img{
+    flex-wrap: nowrap;
+    justify-content:space-between;
+   column-gap: 40px;
+    display: flex;
+  } */
